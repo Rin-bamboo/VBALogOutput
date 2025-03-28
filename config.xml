@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<logfile>C:\home\log\log.txt</logfile>
+	<dateformat>yyyy/mm/dd hh:mm:ss</dateformat>
+	<loglevel>DEBUG</loglevel>
+	<debuglog>False</debuglog>
+</config>
